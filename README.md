@@ -19,6 +19,6 @@
   <img width="12" />
 </div>
 
-![snake animation](https://github.com/JulioKennedyy/JulioKennedyy/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/JulioKennedyy/JulioKennedyy/blob/output/github-contribution-grid-snake.svg)
   
             
