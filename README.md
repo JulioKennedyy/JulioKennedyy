@@ -12,7 +12,18 @@
 
 
 <div align="center">
-  <h1>Tecnologias</h1>
+  <h1>Linguagens</h1>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
 </p>
+<div align="center">
+  <h1>Frameworks e Bibliotecas</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=flask,bootstrap" />
+</p>
+<div align="center">
+  <h1>Banco de Dados</h1>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
