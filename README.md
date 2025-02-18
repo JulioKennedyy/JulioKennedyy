@@ -14,7 +14,7 @@
 <div align="center">
   <h1>Linguagens</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,html,css" />
 </p>
 <div align="center">
   <h1>Frameworks e Bibliotecas</h1>
