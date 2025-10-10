@@ -25,6 +25,6 @@
 <div align="center">
   <h1>Banco de Dados</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
