@@ -20,7 +20,7 @@
 <div align="center">
   <h1>Frameworks e Bibliotecas</h1>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=flask,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=flask,django,react,bootstrap" />
 </p>
 <div align="center">
   <h1>Banco de Dados</h1>
