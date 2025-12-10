@@ -67,6 +67,8 @@
 
 ![Vintage Computer](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 <img src="https://profile-counter.glitch.me/JulioKennedyy/count.svg" alt="Visitor Count" />
 
 </div>
