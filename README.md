@@ -34,7 +34,7 @@
 
 ### 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api? username=JulioKennedyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JulioKennedyy&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioKennedyy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117"/>
 
 </div>
@@ -45,7 +45,7 @@
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JulioKennedyy&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?username=JulioKennedyy&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://git.io/streak-stats)
 
 </div>
 
