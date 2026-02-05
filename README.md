@@ -18,13 +18,13 @@
 ⚡ Languages:  Java, Python, JavaScript, TypeScript
 🎨 Frontend:   React
 ⚙️ Backend:    Spring Boot, Django, Node.js, TypeScript
-💾 Database:   MySQL, PostgreSQL
+💾 Database:   MySQL, PostgreSQL, Redis, MongoDB
 🐳 DevOps:     Docker, Git, Linux
 ```
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,react,spring,django,nodejs,typescript,mysql,postgresql,docker,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,react,spring,django,nodejs,typescript,mysql,postgresql,redis,mongodb,docker,git,linux&theme=dark)](https://skillicons.dev)
 
 </div>
 
