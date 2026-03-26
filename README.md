@@ -51,29 +51,13 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 🎮 Retro Visitor Counter
-
-![Vintage Computer](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<img src="https://profile-counter.glitch.me/JulioKennedyy/count.svg" alt="Visitor Count" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julio-kennedy-dos-santos-silva)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennedyy.devv@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulioKennedyy)
+
 
 </div>
 
