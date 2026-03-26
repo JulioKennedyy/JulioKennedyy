@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=header"/>
+
 <div align="center">
 
 # Julio Kennedy Dos Santos Silva
@@ -45,7 +47,7 @@
 
 ### 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?username=JulioKennedyy&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JulioKennedyy&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00)](https://git.io/streak-stats)
 
 </div>
 
@@ -74,3 +76,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulioKennedyy)
 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=343642&height=120&section=footer"/>
