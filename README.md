@@ -18,7 +18,7 @@
 
 ```text
 ⚡ Languages:  Java, Python, JavaScript, TypeScript
-🎨 Frontend:   React
+🎨 Frontend:   React, React Native
 ⚙️ Backend:    Spring Boot, Django, Node.js, TypeScript
 💾 Database:   MySQL, PostgreSQL, Redis, MongoDB
 🐳 DevOps:     Docker, Git, Linux
