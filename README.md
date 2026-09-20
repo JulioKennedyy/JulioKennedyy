@@ -57,6 +57,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/julio-kennedy-dos-santos-silva)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kennedyy.devv@gmail.com)
+[![Site](https://img.shields.io/badge/Site-000000?style=for-the-badge&logo=site&logoColor=white)](https://juliokennedyy.github.io/Portifolio_/)
 <br/>
 <sub>Codewars rank: <strong>6 kyu</strong></sub><br/>
 [![Codewars](https://www.codewars.com/users/JulioKennedyy/badges/small)](https://www.codewars.com/users/JulioKennedyy)
